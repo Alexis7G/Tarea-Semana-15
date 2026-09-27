@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "usuario": "mesero1",
+        "id_producto": 1,
+        "nombre_producto": "Ceviche de camarón",
+        "cantidad": 2,
+        "total": 17.0,
+        "fecha": "2026-09-27 16:05:14"
+    }
+]

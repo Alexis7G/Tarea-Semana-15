@@ -1,0 +1,6 @@
+[
+    {"id": 1, "nombre": "Ceviche de camarón", "categoria": "Entradas", "precio": 8.5, "disponible": true},
+    {"id": 2, "nombre": "Arroz con menestra y carne", "categoria": "Platos fuertes", "precio": 6.0, "disponible": true},
+    {"id": 3, "nombre": "Jugo de maracuyá", "categoria": "Bebidas", "precio": 2.0, "disponible": true},
+    {"id": 4, "nombre": "Tres leches", "categoria": "Postres", "precio": 3.5, "disponible": false}
+]
